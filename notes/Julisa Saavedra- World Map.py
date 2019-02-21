@@ -7,7 +7,6 @@ world_map = {
         'PATHS':{
             'SOUTH': "PARKING_LOT"
          }
-
     },
     'PARKING_LOT':{
         'NAME':"The John's Incredible Pizza Parking Lot ",
@@ -30,9 +29,22 @@ world_map = {
         }
     },
     'JOHNS_INCREDIBLE_PIZZA_ARCADE':{
-        'NAME':"Johns Incredible Pizza Arcade",
-        'DESCRIPTION':"This place is a arcade where you could play"
-                      "a lazor gun an"
+        'NAME':"John's Incredible Pizza Arcade",
+        'DESCRIPTION':"This place is a arcade where you could play."
+                      "In the arcade there is a laser tag place "
+                      "where you get to play with your friends tag "
+                      "but you tag the by shooting them with a laser"
+                      " gun.",
+        'PATHS':{
+            "UP":"JOHNS_INCREDIBLE_PIZZA_BUFFET"
+        }
     },
+    'JOHNS_INCREDIBLE_PIZZA_BUFFET':{
+        'NAME': "Johns Incredible Pizza Buffet",
+        'DESCRIPTION':"In John's Incredible Pizza they have a buffet"
+                      "where you could get whatever you want, they"
+                      "also have drink's to drink. Also, you could"
+                      " have party's inthere you just have to reserve "
+                      "it.",
 
-
+},
