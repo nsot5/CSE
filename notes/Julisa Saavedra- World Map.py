@@ -46,5 +46,5 @@ world_map = {
                       "also have drink's to drink. Also, you could"
                       " have party's inthere you just have to reserve "
                       "it.",
-
+        'PATHS'
 },
