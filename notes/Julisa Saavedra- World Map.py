@@ -25,11 +25,11 @@ world_map = {
                       "some work or just to hang out there with"
                       "your friends.",
         'PATHS':{
-            "SOUTH":"JOHNS_INCREDIBLE_PIZZA_ARCADE"
+            "SOUTH":"JOHNS_INCREDIBLE_ARCADE"
         }
     },
-    'JOHNS_INCREDIBLE_PIZZA_ARCADE':{
-        'NAME':"John's Incredible Pizza Arcade",
+    'JOHNS_INCREDIBLE_ARCADE':{
+        'NAME':"John's Incredible  Arcade",
         'DESCRIPTION':"This place is a arcade where you could play."
                       "In the arcade there is a laser tag place "
                       "where you get to play with your friends tag "
@@ -44,7 +44,27 @@ world_map = {
         'DESCRIPTION':"In John's Incredible Pizza they have a buffet"
                       "where you could get whatever you want, they"
                       "also have drink's to drink. Also, you could"
-                      " have party's inthere you just have to reserve "
+                      " have party's in there you just have to reserve "
                       "it.",
-        'PATHS'
-},
+        'PATHS':{
+            'DOWN':"JOHNS_INCREDIBLE_BUMPER_CARS"
+        }
+    },
+    'JOHN_INCREDIBLE_BUMPER_CARS':{
+        'NAME':"John Incredible Bumper Cars",
+        'DESCRIPTION':"In John's Incredible they have Bumper Cars where"
+                      "you could play with your friends and bump into"
+                      "them with the cars. Also, you could bump into "
+                      "other people and you're have lot's of fun.",
+        'PATHS':{
+            'SOUTHWEST':"JOHNS_INCREDIBLE_BASKETBALL_GAMES"
+        }
+    },
+    'JOHNS_INCREDIBLE_BASKETBALL_GAMES':{
+        'NAME':"John's Incredible Basketball Games",
+        'DESCRIPTION':"You could play basketball games with your friENDS.",
+        'PATHS':{
+            'SOUTH':"JOHNS_INCREDIBLE_"
+        }
+    },
+    'JOHNS_INCREDIBLE_':
