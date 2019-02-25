@@ -1,8 +1,10 @@
 world_map = {
     'Cedar Ave & N 11th Street': {
         'NAME': "John's Incredible Pizza ",
-        'DESCRIPTION': "This is a place were kids and adult's could go to eat and play with games."
-                       " Also, to the South exit there is the parking lot, and to they North exit"
+        'DESCRIPTION': "This is a place were kids and adult's"
+                       " could go to eat and play with games."
+                       " Also, to the South exit there is the "
+                       "parking lot, and to they North exit"
                        "there is a Starbucks Coffee store.",
         'PATHS':{
             'SOUTH': "PARKING_LOT"
@@ -11,10 +13,10 @@ world_map = {
     'PARKING_LOT':{
         'NAME':"The John's Incredible Pizza Parking Lot ",
         'DESCRIPTION':"There are cars park there."
-                      "To the North exit there's"
+                      "To the East exit there's"
                       "is a Starbucks Coffee store.",
         'PATHS':{
-            "NORTH": "STARBUCKS_COFFEE_STORE"
+            "EAST": "STARBUCKS_COFFEE_STORE"
         }
     },
     'STARBUCKS_COFFEE_STORE': {
@@ -50,7 +52,7 @@ world_map = {
             'DOWN':"JOHNS_INCREDIBLE_BUMPER_CARS"
         }
     },
-    'JOHN_INCREDIBLE_BUMPER_CARS':{
+    'JOHNS_INCREDIBLE_BUMPER_CARS':{
         'NAME':"John Incredible Bumper Cars",
         'DESCRIPTION':"In John's Incredible they have Bumper Cars where"
                       "you could play with your friends and bump into"
@@ -62,9 +64,39 @@ world_map = {
     },
     'JOHNS_INCREDIBLE_BASKETBALL_GAMES':{
         'NAME':"John's Incredible Basketball Games",
-        'DESCRIPTION':"You could play basketball games with your friENDS.",
+        'DESCRIPTION':"You could play basketball games with your friends.",
         'PATHS':{
-            'SOUTH':"JOHNS_INCREDIBLE_"
+            'SOUTH':"JOHNS_INCREDIBLE_ BOWLING"
         }
     },
-    'JOHNS_INCREDIBLE_':
+    'JOHNS_INCREDIBLE_BOWLING':{
+        'NAME':"John's Incredible Bowling",
+        'DESCRIPTION':"In john's incredible they have a bowling place."
+                      " In the bowling place you could play with your"
+                      "friends, also you could play as how many times"
+                      "you wan't to.",
+        'PATHS':{
+            'NORTH':"BAKERY_DELIGHTS"
+        }
+    },
+    'BAKERY_DELIGHTS':{
+        'NAME':"Bakery Delights",
+        'DESCRIPTION':"If you want some desert after leaving John's "
+                      "Incredible Pizza you could go to Bakery Delights."
+                      "At Bakery Delights you could get some bread.",
+        'PATHS':{
+            'UP':"JOHNS_INCREDIBLE_TWISTER"
+        }
+    },
+    'JOHNS_INCREDIBLE_TWISTER':{
+        'NAME':"John's Incredible Twister",
+        'DESCRIPTION':"In John's Incredible they have a twister were"
+                      "you could go on and you spin the wheel so you"
+                      "could go really fast",
+        'PATHS':{
+            'DOWN':"JOHNS_INCREDIBLE_FROG_HOPPER"
+        }
+    },
+    'JOHNS_INCREDIBLE_FROG_HOPPER':{
+        'NAME'
+    }
