@@ -1,5 +1,5 @@
 class Room(object):
-    def __init__(self,  name, north=None, south=None, east=None, description="" ):
+    def __init__(self, name, north=None, south=None, east=None, description=""):
         self.name = name
         self.north = north
         self.south = south
@@ -21,20 +21,13 @@ class Player(object):
         """
         self.current_location = new_location
 
-# Option 1
-# Add dependent rooms after
-R19A = Room("R19A")
-parking_lot = Room('The parking Lot', None, R19A)
 
-R19A.north = parking_lot
-
-#  Option 2
 #  Put them in quotes
 R19A = Room("R19A", 'parking_lot')
 parking_lot = Room('The parking Lot', None, "R19A")
 
+# Players
 player = Player(R19A)
-
 
 
 playing = True
@@ -47,16 +40,16 @@ while playing:
     command = input(">_")
     if command.lower() in ['q', 'quit', 'exit']:
         playing = False
-    elif command.lower()in directions:
+    elif command.lower() in directions:
         try:
             #  command = 'north'
             room_object = getattr(player.current_location, command)
-
-            #  NEEDED FOR OPTION 2
-            room_var = globals()[room_object]
+            room_object = globals()[room_object]
             
             player.move(room_object)
         except KeyError:
+            print("This key does not exits")
+        except AttributeError:
             print("I can't go that way.")
     else:
         print("Command Not Recognized")

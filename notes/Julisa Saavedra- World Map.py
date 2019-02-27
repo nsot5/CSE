@@ -98,5 +98,7 @@ world_map = {
         }
     },
     'JOHNS_INCREDIBLE_FROG_HOPPER':{
-        'NAME'
-    }
+        'NAME':"The Frog Hopper",
+        'DESCRIPTION':"In the Frog Hopper you seat on the chair, then"
+                      "you get ready to go"
+    },
