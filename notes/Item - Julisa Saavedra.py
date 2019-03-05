@@ -1,6 +1,6 @@
 class Vehicle(object):
     def __init__(self, name, engine):
-        self. name = name
+        self.name = name
         self.engine_type = engine
 
 
@@ -20,18 +20,26 @@ class Car(Vehicle):
         self.fuel -= 1
         print("You move forward.")
 
+    def move_backward(self):
+        self.fuel -= 1
+        print("You move backward")
+
     def turn_left(self):
         self.fuel -= 1
         print("You turn left.")
+
+    def turn_right(self):
+        self.fuel -= 1
+        print("You turn right.")
 
     def turn_off(self):
         self.engine_status = False
         print("You turn the engine off.")
 
 
-class Corvette(Car):
+class Ferrari(Car):
     def __init__(self):
-        super(Corvette, self).__init__("Corvette","Gas","slim")
+        super(Ferrari,self).__init__("Ferrari", "Gas", "Slim")
 
 
 class KeylessCar(Car):
@@ -43,12 +51,15 @@ class KeylessCar(Car):
         print("You push the button and the car starts.")
 
 
-julianna_car = Corvette()
-julianna_car.start_engine()
-julianna_car.move_forward()
+julissa_car = Ferrari()
+julissa_car.start_engine()
+julissa_car.move_forward()
+julissa_car.move_backward()
+julissa_car.turn_right()
 print()
 
-adam_car = KeylessCar("Adam's ride", "Diesel", "Toaster")
-adam_car.start_engine()
-adam_car.move_forward()
-adam_car.turn_off()
+matthew_car = KeylessCar("Adam's ride", "Diesel", "Toaster")
+matthew_car.start_engine()
+matthew_car.move_forward()
+matthew_car.move_backward()
+matthew_car.turn_off()
