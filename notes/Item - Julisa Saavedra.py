@@ -42,6 +42,26 @@ class Ferrari(Car):
         super(Ferrari,self).__init__("Ferrari", "Gas", "Slim")
 
 
+class Lamborghini(Car):
+    def __init__(self):
+        super(Lamborghini, self).__init__("Lamborghini", "Gas", "Slim")
+
+
+class Mustang(Car):
+    def __init__(self):
+        super(Mustang, self).__init__("Mustang", "Gas", "Slim")
+
+
+class Corvette(Car):
+    def __init__(self):
+        super(Corvette, self).__init__("Corvette", "Gas", "Slim")
+
+
+class Bugatti(Car):
+    def __init__(self):
+        super(Bugatti, self).__init__("Bugatti", "Gas", "Slim")
+
+
 class KeylessCar(Car):
     def __init__(self, name, engine_type, body_type):
         super(KeylessCar, self).__init__(name, engine_type, body_type)
@@ -58,7 +78,7 @@ julissa_car.move_backward()
 julissa_car.turn_right()
 print()
 
-matthew_car = KeylessCar("Adam's ride", "Diesel", "Toaster")
+matthew_car = KeylessCar("Matthew's ride", "Diesel", "Toaster")
 matthew_car.start_engine()
 matthew_car.move_forward()
 matthew_car.move_backward()
