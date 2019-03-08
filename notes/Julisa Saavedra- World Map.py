@@ -100,5 +100,10 @@ world_map = {
     'JOHNS_INCREDIBLE_FROG_HOPPER':{
         'NAME':"The Frog Hopper",
         'DESCRIPTION':"In the Frog Hopper you seat on the chair, then"
-                      "you get ready to go"
+                      "you get ready to go up and down. It first goes"
+                      "slow but after that is go really fast till you"
+                      "get dizzzy.",
+        'PATHS':{
+            ''
+        }
     },
