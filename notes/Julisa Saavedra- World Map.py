@@ -102,8 +102,29 @@ world_map = {
         'DESCRIPTION':"In the Frog Hopper you seat on the chair, then"
                       "you get ready to go up and down. It first goes"
                       "slow but after that is go really fast till you"
-                      "get dizzzy.",
+                      "get dizzy.",
         'PATHS':{
-            ''
+            'SOUTH':"JOHNS_INCREDIBLE_CROSSY_ROAD"
         }
     },
+    'JOHNS_INCREDIBLE_CROSSY_ROAD':{
+        'NAME':"John's Incredible Crossy Road",
+        'DESCRIPTION':"In the Crossy Road game you are able to cross the"
+                      "road, train tracks, and rivers without getting kill."
+                      "If they get kill you will have to start all over.",
+        'PATHS':{
+            'EAST':"JOHNS_INCREDIBLE_PIANO_KEYS"
+        }
+    },
+    'JOHNS_INCREDIBLE_PIANO_KEYS':{
+        'NAME':"The Piano Keys",
+        'DESCRIPTION':"In this game there's is one to two player. You guys"
+                      "are able to play some music til you guys win your onw"
+                      "high scores.",
+        'PATHS':{
+            'WEST':"JOHNS_INCREDIBLE_360_TOUR"
+        }
+    },
+    'JOHNS_INCREDIBLE_360_TOUR':{
+        'NAME':"John's Incredible 360 Tour "
+    }
