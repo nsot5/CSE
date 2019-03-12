@@ -126,5 +126,14 @@ world_map = {
         }
     },
     'JOHNS_INCREDIBLE_360_TOUR':{
-        'NAME':"John's Incredible 360 Tour "
-    }
+        'NAME':"John's Incredible 360 Tour ",
+        'DESCRIPTION':"In the 360 Tour you take a virtual tour of their"
+                      "fun world that John's Incredible Pizza have.",
+        'PATHS':{
+            'NORTH':"JOHNS_INCREDIBLE_AIR_HOCKEY"
+        }
+    },
+    'JOHNS_INCREDIBLE_AIR_HOCKEY':{
+        'NAME':"John's Incredible Air Hockey",
+        'DESCRIPTION':"In this game you could play with two person"
+    },

@@ -43,13 +43,14 @@
     <session id="-1016188699">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="31" />
+          <entry key="project.closed" value="32" />
           <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.36" value="2" />
+          <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.39" value="2" />
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.41" value="1" />
@@ -67,58 +68,58 @@
           <entry key="project.open.time.65" value="1" />
           <entry key="project.open.time.67" value="1" />
           <entry key="project.open.time.82" value="2" />
-          <entry key="project.opened" value="37" />
+          <entry key="project.opened" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="pstat" value="1" />
-          <entry key="py" value="40" />
+          <entry key="py" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="40" />
+          <entry key="Python" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="py" value="14668" />
+          <entry key="py" value="15527" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="14668" />
+          <entry key="Python" value="15527" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/notes/Item - Julisa Saavedra.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="84" column="22" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
+            <state relative-caret-position="211">
+              <caret line="79" column="18" lean-forward="true" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
               <folding>
-                <marker date="1551975868784" expanded="true" signature="22:27" ph="..." />
-                <marker date="1551975868784" expanded="true" signature="642:706" ph="..." />
-                <marker date="1551975868784" expanded="true" signature="808:870" ph="..." />
-                <marker date="1551975868784" expanded="true" signature="988:993" ph="..." />
-                <marker date="1551975868784" expanded="true" signature="1442:1531" ph="..." />
+                <marker date="1552404426525" expanded="true" signature="22:27" ph="..." />
+                <marker date="1552404426525" expanded="true" signature="642:706" ph="..." />
+                <marker date="1552404426525" expanded="true" signature="808:870" ph="..." />
+                <marker date="1552404426525" expanded="true" signature="988:993" ph="..." />
+                <marker date="1552404426525" expanded="true" signature="1442:2060" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra- World Map.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="124" column="20" selection-start-line="124" selection-start-column="20" selection-end-line="124" selection-end-column="20" />
+            <state relative-caret-position="483">
+              <caret line="137" column="66" selection-start-line="137" selection-start-column="66" selection-end-line="137" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -126,10 +127,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notes/Inheritance notes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            <state>
               <folding>
                 <marker date="1551461672989" expanded="true" signature="932:1180" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra - Item.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <folding>
+                <marker date="1552403657897" expanded="true" signature="19:89" ph="..." />
               </folding>
             </state>
           </provider>
@@ -163,8 +175,8 @@
         <option value="$PROJECT_DIR$/notes/World Map OOP.py" />
         <option value="$PROJECT_DIR$/notes/Inheritance notes.py" />
         <option value="$PROJECT_DIR$/notes/Julisa Saavedra - Item.py" />
-        <option value="$PROJECT_DIR$/notes/Item - Julisa Saavedra.py" />
         <option value="$PROJECT_DIR$/notes/Julisa Saavedra- World Map.py" />
+        <option value="$PROJECT_DIR$/notes/Item - Julisa Saavedra.py" />
       </list>
     </option>
   </component>
@@ -346,7 +358,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="747" height="735" extended-state="0" />
+    <frame x="-6" y="0" width="744" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.0408472" />
@@ -453,13 +465,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra - Item.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra- Dictionary World.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -490,32 +495,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/notes/Inheritance notes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        <state>
           <folding>
             <marker date="1551461672989" expanded="true" signature="932:1180" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes/Item - Julisa Saavedra.py">
+    <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra- World Map.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="84" column="22" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
+        <state relative-caret-position="483">
+          <caret line="137" column="66" selection-start-line="137" selection-start-column="66" selection-end-line="137" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra - Item.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding>
-            <marker date="1551975868784" expanded="true" signature="22:27" ph="..." />
-            <marker date="1551975868784" expanded="true" signature="642:706" ph="..." />
-            <marker date="1551975868784" expanded="true" signature="808:870" ph="..." />
-            <marker date="1551975868784" expanded="true" signature="988:993" ph="..." />
-            <marker date="1551975868784" expanded="true" signature="1442:1531" ph="..." />
+            <marker date="1552403657897" expanded="true" signature="19:89" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra- World Map.py">
+    <entry file="file://$PROJECT_DIR$/notes/Item - Julisa Saavedra.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="124" column="20" selection-start-line="124" selection-start-column="20" selection-end-line="124" selection-end-column="20" />
+        <state relative-caret-position="211">
+          <caret line="79" column="18" lean-forward="true" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
+          <folding>
+            <marker date="1552404426525" expanded="true" signature="22:27" ph="..." />
+            <marker date="1552404426525" expanded="true" signature="642:706" ph="..." />
+            <marker date="1552404426525" expanded="true" signature="808:870" ph="..." />
+            <marker date="1552404426525" expanded="true" signature="988:993" ph="..." />
+            <marker date="1552404426525" expanded="true" signature="1442:2060" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

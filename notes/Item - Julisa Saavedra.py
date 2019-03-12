@@ -62,6 +62,31 @@ class Bugatti(Car):
         super(Bugatti, self).__init__("Bugatti", "Gas", "Slim")
 
 
+class Challenger(Car):
+    def __init__(self):
+        super(Challenger, self).__init__("Challenger", "Gas", "Slim")
+
+
+class Mazda(Car):
+    def __init__(self):
+        super(Mazda, self).__init__("Mazda", "Gas", "Slim")
+
+
+class Porsche(Car):
+    def __init__(self):
+        super(Porsche, self).__init__("Porsche", "Gas", "Slim")
+
+
+class Jaguar(Car):
+    def __init__(self):
+        super(Jaguar, self).__init__("Jaguar", "Gas", "Slim")
+
+
+class Acura(Car):
+    def __init__(self):
+        super(Acura, self).__init__("Acura")
+
+
 class KeylessCar(Car):
     def __init__(self, name, engine_type, body_type):
         super(KeylessCar, self).__init__(name, engine_type, body_type)
