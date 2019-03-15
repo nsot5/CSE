@@ -84,7 +84,22 @@ class Jaguar(Car):
 
 class Acura(Car):
     def __init__(self):
-        super(Acura, self).__init__("Acura")
+        super(Acura, self).__init__("Acura", "Gas", "Coupe")
+
+
+class GTR(Car):
+    def __init__(self):
+        super(GTR, self).__init__("GTR", "Gas", "Coupe")
+
+
+class Lexus(Car):
+    def __init__(self):
+        super(Lexus, self).__init__("Lexus", "Gas", "Slim")
+
+
+class Mercedes(Car):
+    def __init__(self):
+        super(Mercedes, self).__init__("Mercedes", "Gas", "Slim")
 
 
 class KeylessCar(Car):
