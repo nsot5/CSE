@@ -63,9 +63,10 @@ sword2 = Weapon("Orc Sword", 5)
 player = Player(R19A)
 
 # Characters
-c1 = Character("Orc", 100, sword, None)
-c2 = Character("Orc", 100, sword2, None)
+c1 = Character("Orc1", 100, sword, None)
+c2 = Character("Orc2", 100, sword2, None)
 c1.attack(c2)
+c2.attack(c1)
 
 playing = True
 directions = ['north', 'south' 'east', 'west', 'up', 'down']
