@@ -4,6 +4,12 @@ class Item(object):
         self.ability_type = ability
 
 
+class Axes(Item):
+    def __init__(self, name, ability):
+        self.name = name
+        self.ability_type = ability
+
+
 class Sword(Item):
     def __init__(self, name, ability_type, damage, attack,):
         super(Sword, self).__init__(name, ability_type)
@@ -14,7 +20,7 @@ class Sword(Item):
 
     def swords_name(self):
         self.swords_damage = True
-        print("You attack the attacker and you sword got damage.")
+        print("You attack the opponent and you sword got damage.")
 
     def one_handed_sword(self):
         self.ability_type = -1
@@ -51,3 +57,6 @@ class Sword(Item):
     def great_sword(self):
         self.ability_type = -1
         print("You attack your opponent with a great sword.")
+
+    def axes(self):
+        self.ability_type = -1
