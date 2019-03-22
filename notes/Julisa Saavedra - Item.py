@@ -52,6 +52,10 @@ class Sword(Item):
         self.ability_type = -1
         print("You attack your opponent with a great sword.")
 
+    def honjo_masamune_sword(self):
+        self.ability_type = -1
+        print("You attack your opponent with a  Honjo Masamune sword.")
+
 
 class Item(object):
     def __init__(self, name, ability):
@@ -66,4 +70,18 @@ class Axes(Item):
         self.damage = damage
         self.attack = attack
 
-    def
+    def viking_danish_axe(self):
+        self.ability_type = -1
+        print("You attack your opponent with a viking danish axe.")
+
+    def the_double_bit_axe(self):
+        self.ability_type = -1
+        print("You attack your opponent with the double bit axe.")
+
+    def splitting_maul_axe(self):
+        self.ability_type = -1
+        print("You attack your opponent with a splitting maul axe.")
+
+    def felling_hatchet_axe(self):
+        self.ability_type = -1
+        print ("You attack your opponent with a felling hatchet axes.")
