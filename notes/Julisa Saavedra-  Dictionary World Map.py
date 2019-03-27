@@ -145,7 +145,6 @@ world_map = {
             "UP"
             "DOWN"
         }
-
     },
 }
 
@@ -191,8 +190,20 @@ class Room(object):
         self.items = item
 
 
-sword = Sword("one_handed_sword", "zweihander_sword", "svardstav_sword", "jian_sword", "longsword_sword", "broadsword_sword", )
+sword = Sword("one_handed_sword", "zweihander_sword", "svardstav_sword", "jian_sword", "long_sword", "broad_sword", )
 
 
-room1 = Room("John's Incredible Pizza", "svardstav_sword")
-
+room1 = Room("John's Incredible Pizza", "one_handed_sword")
+room2 = Room("The John's Incredible Pizza Parking Lot", "zweihander_sword" )
+room3 = Room("Starbucks Coffee Store")
+room4 = Room("John's Incredible  Arcade")
+room5 = Room("Johns Incredible Pizza Buffet")
+room6 = Room("John Incredible Bumper Cars")
+room7 = Room("")
+room8 = Room("")
+room9 = Room("")
+room10 = Room("")
+room11 = Room("")
+room12 = Room("")
+room14 = Room("")
+room15 = Room("")

@@ -21,7 +21,7 @@
     <SUITE FILE_PATH="coverage/CSE$Julisa_S__Hang_Man.coverage" NAME="Julisa S- Hang Man Coverage Results" MODIFIED="1548778032561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notes" />
     <SUITE FILE_PATH="coverage/CSE$Julisa_Saavedra_Dictonary_notes.coverage" NAME="Julisa Saavedra-Dictonary notes Coverage Results" MODIFIED="1548866077954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notes" />
     <SUITE FILE_PATH="coverage/CSE$Object___Julisa_Saavedra.coverage" NAME="Object - Julisa Saavedra Coverage Results" MODIFIED="1550767031833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notes" />
-    <SUITE FILE_PATH="coverage/CSE$Julisa_Saavedra___Dictionary_World_Map.coverage" NAME="Julisa Saavedra-  Dictionary World Map Coverage Results" MODIFIED="1553614717730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notes" />
+    <SUITE FILE_PATH="coverage/CSE$Julisa_Saavedra___Dictionary_World_Map.coverage" NAME="Julisa Saavedra-  Dictionary World Map Coverage Results" MODIFIED="1553700047927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notes" />
     <SUITE FILE_PATH="coverage/CSE$Dictionary_World__Julisa.coverage" NAME="Dictionary World- Julisa Coverage Results" MODIFIED="1548952933885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notes" />
     <SUITE FILE_PATH="coverage/CSE$Semester_2_Notes.coverage" NAME="Semester 2 Notes Coverage Results" MODIFIED="1546964449748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CSE$Object_notes.coverage" NAME="Object notes Coverage Results" MODIFIED="1550766919137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notes" />
@@ -56,6 +56,7 @@
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.36" value="3" />
+          <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.39" value="2" />
           <entry key="project.open.time.40" value="1" />
@@ -78,7 +79,7 @@
           <entry key="project.open.time.68" value="1" />
           <entry key="project.open.time.77" value="1" />
           <entry key="project.open.time.82" value="2" />
-          <entry key="project.opened" value="49" />
+          <entry key="project.opened" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -96,13 +97,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="26" />
-          <entry key="py" value="19375" />
+          <entry key="py" value="19737" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="19375" />
+          <entry key="Python" value="19737" />
         </counts>
       </usages-collector>
     </session>
@@ -113,9 +114,9 @@
         <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra-  Dictionary World Map.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="339">
-              <caret line="191" lean-forward="true" selection-start-line="191" selection-end-line="191" />
+              <caret line="201" column="14" selection-start-line="201" selection-start-column="14" selection-end-line="201" selection-end-column="14" />
               <folding>
-                <marker date="1553614905186" expanded="true" signature="6842:6847" ph="..." />
+                <marker date="1553700912670" expanded="true" signature="6841:6846" ph="..." />
               </folding>
             </state>
           </provider>
@@ -124,7 +125,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notes/World Map OOP.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="153">
               <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="24" />
             </state>
           </provider>
@@ -133,8 +134,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra - Item.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="24" />
+            <state relative-caret-position="34">
+              <caret line="6" selection-start-line="6" selection-end-line="13" />
               <folding>
                 <marker date="1553272243239" expanded="true" signature="121:122" ph="..." />
               </folding>
@@ -183,9 +184,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-6" />
-    <option name="width" value="721" />
+    <option name="width" value="723" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectView">
@@ -356,7 +357,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-6" y="0" width="723" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.0408472" />
@@ -364,7 +365,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.31751227" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.31260228" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39770868" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -378,9 +379,9 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.32894737" />
-      <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
-      <window_info anchor="right" id="Database" order="5" weight="0.32894737" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32829046" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32894737" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -477,14 +478,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1479">
           <caret line="87" selection-start-line="87" selection-end-line="87" />
-          <folding>
-            <marker date="1552667852254" expanded="true" signature="22:27" ph="..." />
-            <marker date="1552667852254" expanded="true" signature="642:706" ph="..." />
-            <marker date="1552667852254" expanded="true" signature="808:870" ph="..." />
-            <marker date="1552667852254" expanded="true" signature="988:993" ph="..." />
-            <marker date="1552667852254" expanded="true" signature="1442:2280" ph="..." />
-            <marker date="1552667852254" expanded="true" signature="2301:2394" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -511,15 +504,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/notes/World Map OOP.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="153">
           <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra - Item.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="24" />
+        <state relative-caret-position="34">
+          <caret line="6" selection-start-line="6" selection-end-line="13" />
           <folding>
             <marker date="1553272243239" expanded="true" signature="121:122" ph="..." />
           </folding>
@@ -529,9 +522,9 @@
     <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra-  Dictionary World Map.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="339">
-          <caret line="191" lean-forward="true" selection-start-line="191" selection-end-line="191" />
+          <caret line="201" column="14" selection-start-line="201" selection-start-column="14" selection-end-line="201" selection-end-column="14" />
           <folding>
-            <marker date="1553614905186" expanded="true" signature="6842:6847" ph="..." />
+            <marker date="1553700912670" expanded="true" signature="6841:6846" ph="..." />
           </folding>
         </state>
       </provider>
