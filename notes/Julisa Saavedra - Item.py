@@ -32,11 +32,11 @@ class Sword(Item):
         self.ability_type = -1
         print("You attack your opponent with a jian sword.")
 
-    def longsword_sword(self):
+    def long_sword(self):
         self.ability_type = -1
         print("You attack your opponent with a longsword.")
 
-    def broadsword_sword(self):
+    def broad_sword(self):
         self.ability_type = -1
         print("You attack your opponent with a broadsword.")
 

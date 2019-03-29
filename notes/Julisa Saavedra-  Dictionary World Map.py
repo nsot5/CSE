@@ -201,8 +201,7 @@ class Room(object):
         self.items = item
 
 
-sword = Swords("one_handed_sword", "zweihander_sword", "svardstav_sword", "jian_sword", "long_sword", "broad_sword",
-              "long_knife_and_short_sword", "claymore_sword", "great_sword", "honjo_masamune_sword")
+sword = Swords("one_handed_sword", "zweihander_sword", "svardstav_sword", "jian_sword", "long_sword", "broad_sword", "long_knife_and_short_sword", "claymore_sword", "great_sword", "honjo_masamune_sword")
 
 axe = Axes("viking_danish_axe", "the_double_bit_axe", "splitting_maul_axe", "felling_hatchet_axe", "tomahawk_axe")
 
