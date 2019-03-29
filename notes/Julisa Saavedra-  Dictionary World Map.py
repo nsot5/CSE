@@ -173,14 +173,25 @@ while playing:
 
 
 class Item(object):
-    def __init__(self, name):
+    def __init__(self, name, ability_type):
         self.name = name
+        self.ability_type = ability_type
 
 
-class Sword(Item):
-    def __init__(self, name, damage):
-        super(Sword, self).__init__(name)
+class Swords(Item):
+    def __init__(self, name, ability_type,  damage, attack):
+        super(Swords, self).__init__(name, ability_type)
+        self.name = name
         self.damage = damage
+        self.attack = attack
+
+
+class Axes(Item):
+    def __init__(self, name, ability_type,  damage, attack):
+        super(Axes, self).__init__(name, ability_type)
+        self.name = name
+        self.damage = damage
+        self.attack = attack
 
 
 class Room(object):
@@ -190,20 +201,23 @@ class Room(object):
         self.items = item
 
 
-sword = Sword("one_handed_sword", "zweihander_sword", "svardstav_sword", "jian_sword", "long_sword", "broad_sword", )
+sword = Swords("one_handed_sword", "zweihander_sword", "svardstav_sword", "jian_sword", "long_sword", "broad_sword",
+              "long_knife_and_short_sword", "claymore_sword", "great_sword", "honjo_masamune_sword")
 
+axe = Axes("viking_danish_axe", "the_double_bit_axe", "splitting_maul_axe", "felling_hatchet_axe", "tomahawk_axe")
 
 room1 = Room("John's Incredible Pizza", "one_handed_sword")
-room2 = Room("The John's Incredible Pizza Parking Lot", "zweihander_sword" )
-room3 = Room("Starbucks Coffee Store")
-room4 = Room("John's Incredible  Arcade")
-room5 = Room("Johns Incredible Pizza Buffet")
-room6 = Room("John Incredible Bumper Cars")
-room7 = Room("")
-room8 = Room("")
-room9 = Room("")
-room10 = Room("")
-room11 = Room("")
-room12 = Room("")
-room14 = Room("")
-room15 = Room("")
+room2 = Room("The John's Incredible Pizza Parking Lot", "zweihander_sword")
+room3 = Room("Starbucks Coffee Store", "svardstav_sword")
+room4 = Room("John's Incredible  Arcade", "jian_sword")
+room5 = Room("Johns Incredible Pizza Buffet", "long_sword")
+room6 = Room("John Incredible Bumper Cars", "broad_sword")
+room7 = Room("John's Incredible Basketball Games", "long_knife_and_short_sword")
+room8 = Room("John's Incredible Bowling", "claymore_sword")
+room9 = Room("Bakery Delights", "great_sword")
+room10 = Room("John's Incredible Twister", "honjo_masamune_sword")
+room11 = Room("The Frog Hopper", "viking_danish_axe")
+room12 = Room("John's Incredible Crossy Road", "the_double_bit_axe")
+room13 = Room("The Piano Keys", "splitting_maul_axe")
+room14 = Room("John's Incredible 360 Tour", "felling_hatchet_axe")
+room15 = Room("John's Incredible Air Hockey", "tomahawk_axe")

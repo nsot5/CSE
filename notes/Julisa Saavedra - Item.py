@@ -41,7 +41,7 @@ class Sword(Item):
         print("You attack your opponent with a broadsword.")
 
     def long_knife_and_short_sword(self):
-        self.ability_type= -1
+        self.ability_type = -1
         print("You attack your opponent with a Long knife and short sword.")
 
     def claymore_sword(self):
@@ -85,3 +85,7 @@ class Axes(Item):
     def felling_hatchet_axe(self):
         self.ability_type = -1
         print ("You attack your opponent with a felling hatchet axes.")
+
+    def tomahawk_axe(self):
+        self.ability_type = -1
+        print("You attack your opponent with a tomahawk axe.")
