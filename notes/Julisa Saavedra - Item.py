@@ -70,6 +70,10 @@ class Axes(Item):
         self.damage = damage
         self.attack = attack
 
+    def axes_name(self):
+        self.ability_type = -1
+        print("You attack your opponent with a axe.")
+
     def viking_danish_axe(self):
         self.ability_type = -1
         print("You attack your opponent with a viking danish axe.")
