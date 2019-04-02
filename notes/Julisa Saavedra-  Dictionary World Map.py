@@ -289,3 +289,20 @@ room12 = Room("John's Incredible Crossy Road", "the_double_bit_axe")
 room13 = Room("The Piano Keys", "splitting_maul_axe")
 room14 = Room("John's Incredible 360 Tour", "felling_hatchet_axe")
 room15 = Room("John's Incredible Air Hockey", "tomahawk_axe")
+
+
+class Character(object):
+    def __init__(self, name, health, weapon, armor):
+        self.name = name
+        self.health = health
+        self.weapon = weapon
+        self.armor = armor
+
+    def take_damage(self, damage):
+        self.health -= damage
+        if self.health < 0:
+            self.health = 0
+        print("%s has %d health left" % (self.name, self.health))
+
+    def attack(self, target):
+        print("%s attacks %s for %d damage" % (self.name, target.name, self.weapon.damage))
