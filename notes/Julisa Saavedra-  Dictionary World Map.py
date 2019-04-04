@@ -190,7 +190,7 @@ class Swords(Item):
 
     def swords_name(self):
         self.swords_damage = -1
-        print("You attack the opponent and you sword got damage.")
+        print("You attack the opponent and your sword got damage.")
 
 
 class Axes(Item):
@@ -203,7 +203,7 @@ class Axes(Item):
 
     def axes_name(self):
         self.axes_damage = -1
-        print("You attack your opponent with a axe.")
+        print("You attack the opponent and your axe got damage.")
 
 
 class Room(object):
