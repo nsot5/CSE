@@ -21,7 +21,7 @@ class Sword(Item):
         print ("You attack the opponent with a one handed sword.")
 
     def zweihander_sword(self):
-        self.swords_damage = True = -1
+        self.swords_damage = -1
         print("You attack the opponent with a zweihander sword.")
 
     def svardstav_sword(self):

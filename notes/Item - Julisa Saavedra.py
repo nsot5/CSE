@@ -39,7 +39,7 @@ class Car(Vehicle):
 
 class Ferrari(Car):
     def __init__(self):
-        super(Ferrari,self).__init__("Ferrari", "Gas", "Slim")
+        super(Ferrari, self).__init__("Ferrari", "Gas", "Slim")
 
 
 class Lamborghini(Car):
