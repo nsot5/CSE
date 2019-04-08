@@ -144,20 +144,28 @@ world_map = {
             "EAST"
             "UP"
             "DOWN"
+            "SOUTHWEST"
         }
     },
 }
 
 # Other variables
 current_node = world_map["Cedar Ave & N 11th Street"]
-directions = ["NORTH", "SOUTH", "EAST", "WEST", "UP", "DOWN"]
+directions = ["NORTH", "SOUTH", "EAST", "WEST", "UP", "DOWN", "SOUTHWEST"]
+short_directions = ['n', 's', 'e', 'w', 'u', 'd', 'sw']
 playing = True
 
 # Controller
 while playing:
     print(current_node["NAME"])
     print(current_node["DESCRIPTION"])
+
     command = input(">_")
+
+    if command in short_directions:
+        pos = short_directions.index(command.lower())
+        command = directions[pos]
+
     if command.lower() in ['q', 'quit', 'exit']:
         playing = False
     elif command.upper() in directions:

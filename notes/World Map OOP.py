@@ -69,13 +69,19 @@ c1.attack(c2)
 c2.attack(c1)
 
 playing = True
-directions = ['north', 'south' 'east', 'west', 'up', 'down']
-
+directions = ['north', 'south', 'east', 'west', 'up', 'down']
+short_directions = ['n', 's', 'e', 'w', 'u', 'd']
 # Controller
 while playing:
     print(player.current_location.name)
     print(player.current_location.description)
+
     command = input(">_")
+
+    if command in short_directions:
+        pos = short_directions.index(command.lower())
+        command = directions[pos]
+
     if command.lower() in ['q', 'quit', 'exit']:
         playing = False
     elif command.lower() in directions:
