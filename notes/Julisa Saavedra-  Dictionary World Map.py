@@ -173,7 +173,7 @@ while playing:
             room_name = current_node['PATHS'][command.upper()]
             current_node = world_map[room_name]
         except KeyError:
-            print("The key does not exits")
+            print("I can't go that way.")
         except AttributeError:
             print("I can't go that way.")
     else:
