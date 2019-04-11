@@ -269,10 +269,3 @@ class Player(object):
         self.current_location = starting_location
         self.inventory = []
         self.damage = 10
-
-
-class move(object):
-    def __init__(self, moving, grab, drop):
-        self.move = moving
-        self.grab = grab
-        self.drop = drop
