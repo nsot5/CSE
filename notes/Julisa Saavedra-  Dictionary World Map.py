@@ -225,7 +225,8 @@ sword = Swords("one_handed_sword", "zweihander_sword", "svardstav_sword", "jian_
                "long_sword", "broad_sword", "long_knife_and_short_sword", "claymore_sword",
                "great_sword", "honjo_masamune_sword")
 
-axe = Axes("viking_danish_axe", "the_double_bit_axe", "splitting_maul_axe", "felling_hatchet_axe", "tomahawk_axe")
+axe = Axes("viking_danish_axe", "the_double_bit_axe", "splitting_maul_axe", "felling_hatchet_axe",
+           "tomahawk_axe")
 
 room1 = Room("John's Incredible Pizza", "one_handed_sword")
 room2 = Room("The John's Incredible Pizza Parking Lot", "zweihander_sword")
@@ -258,7 +259,7 @@ class Character(object):
         print("%s has %d health left" % (self.name, self.health))
 
     def attack(self, target):
-        print("%s attacks %s for %d da mage" % (self.name, target.name, self.weapon.damage))
+        print("%s attacks %s for %d damage" % (self.name, target.name, self.weapon.damage))
         target.take_damage(self.weapon.damage)
 
 
