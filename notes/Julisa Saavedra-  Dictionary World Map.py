@@ -272,7 +272,7 @@ class Player(object):
         self.damage = 10
 
 
-class move(object):
+class r(object):
     def __init__(self, moving, grab, drop):
         self.move = moving
         self.grab = grab

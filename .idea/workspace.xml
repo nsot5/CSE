@@ -42,105 +42,27 @@
     <expand />
     <select />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1016188699">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="49" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.11" value="3" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.29" value="1" />
-          <entry key="project.open.time.30" value="1" />
-          <entry key="project.open.time.31" value="2" />
-          <entry key="project.open.time.33" value="1" />
-          <entry key="project.open.time.34" value="1" />
-          <entry key="project.open.time.35" value="5" />
-          <entry key="project.open.time.36" value="3" />
-          <entry key="project.open.time.37" value="2" />
-          <entry key="project.open.time.38" value="1" />
-          <entry key="project.open.time.39" value="2" />
-          <entry key="project.open.time.40" value="1" />
-          <entry key="project.open.time.41" value="2" />
-          <entry key="project.open.time.42" value="1" />
-          <entry key="project.open.time.46" value="1" />
-          <entry key="project.open.time.48" value="3" />
-          <entry key="project.open.time.50" value="1" />
-          <entry key="project.open.time.51" value="5" />
-          <entry key="project.open.time.53" value="4" />
-          <entry key="project.open.time.54" value="3" />
-          <entry key="project.open.time.55" value="1" />
-          <entry key="project.open.time.56" value="1" />
-          <entry key="project.open.time.57" value="2" />
-          <entry key="project.open.time.58" value="2" />
-          <entry key="project.open.time.59" value="3" />
-          <entry key="project.open.time.63" value="1" />
-          <entry key="project.open.time.64" value="1" />
-          <entry key="project.open.time.65" value="1" />
-          <entry key="project.open.time.67" value="1" />
-          <entry key="project.open.time.68" value="1" />
-          <entry key="project.open.time.75" value="1" />
-          <entry key="project.open.time.77" value="1" />
-          <entry key="project.open.time.82" value="2" />
-          <entry key="project.opened" value="65" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="csv" value="1" />
-          <entry key="pstat" value="1" />
-          <entry key="py" value="105" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Profiler Session" value="1" />
-          <entry key="Python" value="105" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="26" />
-          <entry key="py" value="22756" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="22756" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra-  Dictionary World Map.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4437">
-              <caret line="261" column="38" selection-start-line="261" selection-start-column="38" selection-end-line="261" selection-end-column="38" />
-              <folding>
-                <marker date="1556033875681" expanded="true" signature="7787:7792" ph="..." />
-                <marker date="1556033875681" expanded="true" signature="9225:9230" ph="..." />
-                <marker date="1556033875681" expanded="true" signature="9995:10000" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra - Item.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            <state relative-caret-position="548">
+              <caret line="274" column="6" lean-forward="true" selection-start-line="274" selection-start-column="6" selection-end-line="274" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra - Item.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notes/CSVNotes.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -184,21 +106,15 @@
         <option value="$PROJECT_DIR$/notes/Julisa Saavedra- World Map.py" />
         <option value="$PROJECT_DIR$/notes/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/download.py" />
         <option value="$PROJECT_DIR$/notes/Item - Julisa Saavedra.py" />
-        <option value="$PROJECT_DIR$/notes/Julisa Saavedra - Item.py" />
         <option value="$PROJECT_DIR$/notes/World Map OOP.py" />
-        <option value="$PROJECT_DIR$/notes/Julisa Saavedra-  Dictionary World Map.py" />
         <option value="$PROJECT_DIR$/notes/Book1.csv.py" />
         <option value="$PROJECT_DIR$/notes/CSVNotes.py" />
+        <option value="$PROJECT_DIR$/notes/Julisa Saavedra-  Dictionary World Map.py" />
+        <option value="$PROJECT_DIR$/notes/Julisa Saavedra - Item.py" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="width" value="1378" />
     <option name="height" value="780" />
   </component>
@@ -206,33 +122,16 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="CSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSE" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CSE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSE" type="462c0819:PsiDirectoryNode" />
-              <item name="notes" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="swords&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -256,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.CSVNotes">
+  <component name="RunManager" selected="Python.Julisa Saavedra-  Dictionary World Map">
     <configuration name="CSVNotes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CSE" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -376,8 +275,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.CSVNotes" />
         <item itemvalue="Python.Julisa Saavedra-  Dictionary World Map" />
+        <item itemvalue="Python.CSVNotes" />
         <item itemvalue="Python.World Map OOP" />
         <item itemvalue="Python.Julisa Saavedra - Item" />
         <item itemvalue="Python.Julisa Saavedra- World Map" />
@@ -394,11 +293,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546964359218</updated>
+      <workItem from="1556205324594" duration="646000" />
+      <workItem from="1556205997094" duration="1028000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1674000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1378" height="780" extended-state="0" />
+    <frame x="0" y="0" width="1378" height="780" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.42109257" />
@@ -406,7 +310,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.30293664" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.30293664" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39770868" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -428,9 +332,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -441,6 +342,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CSE$Julisa_Saavedra___Dictionary_World_Map.coverage" NAME="Julisa Saavedra-  Dictionary World Map Coverage Results" MODIFIED="1556206127942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notes" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
@@ -467,9 +371,7 @@
     <entry file="file://$PROJECT_DIR$/notes/World Map OOP.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../World Map OOP.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../World Map OOP.py" />
     <entry file="file://$PROJECT_DIR$/notes/Object notes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="549">
@@ -477,9 +379,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Object notes.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Object notes.py" />
     <entry file="file://$PROJECT_DIR$/notes/Special_Random.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -494,15 +394,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Object - Julisa Saavedra.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Object - Julisa Saavedra.py" />
     <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra-Dictionary notes.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Julisa Saavedra-Dictionary notes.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Julisa Saavedra-Dictionary notes.py" />
     <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra-  Showcase2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -510,12 +406,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Julisa Saavedra-  Showcase2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Julisa Saavedra-  Dictionary World Map.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Julisa Saavedra-  Showcase2.py" />
+    <entry file="file://$PROJECT_DIR$/../Julisa Saavedra-  Dictionary World Map.py" />
     <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra- Showcase.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -530,9 +422,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Julisa Saavedra- Lucky 7s.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Julisa Saavedra- Lucky 7s.py" />
     <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra- Guess Game.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -540,9 +430,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Julisa Saavedra- Guess Game.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Julisa Saavedra- Guess Game.py" />
     <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra- Dictionary World.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -553,21 +441,13 @@
     <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra  - World Map OOP.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Julisa Saavedra  - World Map OOP.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Julisa Saavedra  - World Map OOP.py" />
     <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra - Mad Lib.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/Julisa Saavedra - Mad Lib.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Julisa Saavedra - Mad Lib.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Julisa Saavedra - Item.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Julisa Saavedra - Mad Lib.py" />
+    <entry file="file://$PROJECT_DIR$/../Julisa Saavedra - Mad Lib.py" />
+    <entry file="file://$PROJECT_DIR$/../Julisa Saavedra - Item.py" />
     <entry file="file://$PROJECT_DIR$/notes/Julisa S- Hang Man.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -575,9 +455,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Julisa S- Hang Man.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Julisa S- Hang Man.py" />
     <entry file="file://$PROJECT_DIR$/notes/Item - Julisa Saavedra.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="549">
@@ -585,9 +463,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Item - Julisa Saavedra.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Item - Julisa Saavedra.py" />
     <entry file="file://$PROJECT_DIR$/notes/Inheritance notes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="517">
@@ -595,9 +471,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Inheritance notes.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Inheritance notes.py" />
     <entry file="file://$PROJECT_DIR$/notes/Inheritance.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -608,40 +482,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Dictionary World- Julisa.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Basic Python Notes.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../Dictionary World- Julisa.py" />
+    <entry file="file://$PROJECT_DIR$/../Basic Python Notes.py" />
     <entry file="file://$PROJECT_DIR$/notes/Basic Python Notes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="549">
           <caret line="129" column="3" selection-start-line="129" selection-start-column="3" selection-end-line="129" selection-end-column="3" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra-  Dictionary World Map.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4437">
-          <caret line="261" column="38" selection-start-line="261" selection-start-column="38" selection-end-line="261" selection-end-column="38" />
-          <folding>
-            <marker date="1556033875681" expanded="true" signature="7787:7792" ph="..." />
-            <marker date="1556033875681" expanded="true" signature="9225:9230" ph="..." />
-            <marker date="1556033875681" expanded="true" signature="9995:10000" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra - Item.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes/Book1.csv">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/notes/Book1.csv">
       <provider selected="true" editor-type-id="text-editor" />
@@ -650,6 +498,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra-  Dictionary World Map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="274" column="6" lean-forward="true" selection-start-line="274" selection-start-column="6" selection-end-line="274" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra - Item.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
         </state>
       </provider>
     </entry>

@@ -12,13 +12,15 @@ class Sword(Item):
         self.attack = attack
         self.swords_damage = True
 
-    def swords_name(self):
-        self.swords_damage = True
-        print("You attack the opponent and you sword got damage.")
 
-    def one_handed_sword(self):
-        self.swords_damage = -1
-        print ("You attack the opponent with a one handed sword.")
+class swords_name(Sword):
+    def __init__(self):
+        super(swords_name, self).__init__()
+
+
+class one_handed_sword(Sword):
+    def __init__(self):
+        super(one_handed_sword, self).__init__(one_handed_sword)
 
     def zweihander_sword(self):
         self.swords_damage = -1
