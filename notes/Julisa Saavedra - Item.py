@@ -1,12 +1,11 @@
 class Item(object):
     def __init__(self, name, ability):
         self.name = name
-        self.ability_type = ability
 
 
 class Sword(Item):
-    def __init__(self, name, ability_type, damage, attack,):
-        super(Sword, self).__init__(name, ability_type)
+    def __init__(self, name, damage, attack,):
+        super(Sword, self).__init__(name)
         self.name = name
         self.damage = damage
         self.attack = attack
@@ -20,7 +19,7 @@ class swords_name(Sword):
 
 class one_handed_sword(Sword):
     def __init__(self):
-        super(one_handed_sword, self).__init__(one_handed_sword)
+        super(one_handed_sword, self).__init__(one_handed_sword,)
 
     def zweihander_sword(self):
         self.swords_damage = -1
