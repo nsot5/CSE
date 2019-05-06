@@ -1,59 +1,66 @@
 class Item(object):
-    def __init__(self, name, ability):
+    def __init__(self, name):
         self.name = name
 
 
 class Sword(Item):
-    def __init__(self, name, damage, attack,):
+    def __init__(self, name):
         super(Sword, self).__init__(name)
         self.name = name
-        self.damage = damage
-        self.attack = attack
         self.swords_damage = True
 
 
 class swords_name(Sword):
     def __init__(self):
-        super(swords_name, self).__init__()
+        super(swords_name, self).__init__("swords name")
 
 
 class one_handed_sword(Sword):
     def __init__(self):
-        super(one_handed_sword, self).__init__(one_handed_sword,)
+        super(one_handed_sword, self).__init__("one handed sword")
 
-    def zweihander_sword(self):
-        self.swords_damage = -1
-        print("You attack the opponent with a zweihander sword.")
 
-    def svardstav_sword(self):
-        self.swords_damage = -1
-        print("You attack your opponent with a svardstav sword.")
+class zweihander_sword(Sword):
+    def __init__(self):
+        super(zweihander_sword, self).__init__("zweihander sword")
 
-    def jian_sword(self):
-        self.swords_damage = -1
-        print("You attack your opponent with a jian sword.")
 
-    def long_sword(self):
-        self.swords_damage = -1
-        print("You attack your opponent with a longsword.")
+class svardstav_sword(Sword):
+    def __init__(self):
+        super(svardstav_sword, self).__init__("svardstav sword")
 
-    def broad_sword(self):
-        self.swords_damage = -1
-        print("You attack your opponent with a broadsword.")
 
-    def long_knife_and_short_sword(self):
-        self.swords_damage = -1
-        print("You attack your opponent with a Long knife and short sword.")
+class jian_sword(Sword):
+    def __init__(self):
+        super(jian_sword, self).__init__("jian sword")
 
-    def claymore_sword(self):
-        self.swords_damage = -1
-        print("You attack your opponent with a claymore sword.")
 
-    def great_sword(self):
-        self.swords_damage = -1
-        print("You attack your opponent with a great sword.")
+class long_sword(Sword):
+    def __init__(self):
+        super(long_sword, self).__init__("long sword")
 
-    def honjo_masamune_sword(self):
+
+class broad_sword(Sword):
+    def __init__(self):
+        super(broad_sword, self).__init__("board sword")
+
+
+class long_knife_and_short_sword(Sword):
+    def __init__(self):
+        super(long_knife_and_short_sword, self).__init__("long knife and short sword")
+
+
+class claymore_sword(Sword):
+    def __init__(self):
+        super(claymore_sword, self).__init__("claymore sword")
+
+
+class great_sword(Sword):
+    def __init__(self):
+        super(great_sword, self).__init__("great sword")
+
+
+class honjo_masamune_sword(self):
         self.swords_damage = -1
         print("You attack your opponent with a  Honjo Masamune sword.")
 
