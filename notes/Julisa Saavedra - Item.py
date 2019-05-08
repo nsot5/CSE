@@ -60,47 +60,48 @@ class great_sword(Sword):
         super(great_sword, self).__init__("great sword")
 
 
-class honjo_masamune_sword(self):
-        self.swords_damage = -1
-        print("You attack your opponent with a  Honjo Masamune sword.")
+class honjo_masamune_sword(Sword):
+    def __init__(self):
+        super(honjo_masamune_sword, self).__init__("honjo masamune sword")
 
 
 class Item(object):
-    def __init__(self, name, ability):
+    def __init__(self, name):
         self.name = name
-        self.ability_type = ability
-        self.swords_damage = True
-        self.axes_damage = True
 
 
 class Axes(Item):
-    def __init__(self, name, ability_type, damage, attack,):
-        super(Axes, self).__init__(name, ability_type)
+    def __init__(self, name):
+        super(Axes, self).__init__(name)
         self.name = name
-        self.damage = damage
-        self.attack = attack
-        self.axes_damage = True
+        self.axe_damage = True
 
-    def axes_name(self):
-        self.axes_damage = -1
-        print("You attack your opponent with a axe.")
 
-    def viking_danish_axe(self):
-        self.axes_damage = -1
-        print("You attack your opponent with a viking danish axe.")
+class axes_name(Axes):
+    def __init__(self):
+        super(axes_name, self).__init__("axes name")
 
-    def the_double_bit_axe(self):
-        self.axes_damage = -1
-        print("You attack your opponent with the double bit axe.")
 
-    def splitting_maul_axe(self):
-        self.axes_damage = -1
-        print("You attack your opponent with a splitting maul axe.")
+class viking_danish_axe(Axes):
+    def __init__(self):
+        super(viking_danish_axe, self).__init__("viking danish axe")
 
-    def felling_hatchet_axe(self):
-        self.axes_damage = -1
-        print ("You attack your opponent with a felling hatchet axes.")
 
-    def tomahawk_axe(self):
-        self.axes_damage = -1
-        print("You attack your opponent with a tomahawk axe.")
+class the_double_bit_axe(Axes):
+    def __init__(self):
+        super(the_double_bit_axe, self).__init__("the double bit axe")
+
+
+class splitting_maul_axe(Axes):
+    def __init__(self):
+        super(splitting_maul_axe, self).__init__("spitting maul axe")
+
+
+class felling_hatchet_axe(Axes):
+    def __init__(self):
+        super(felling_hatchet_axe, self).__init__("felling hatchet axe")
+
+
+class tomahawk_axe(Axes):
+    def __init__(self):
+        super(tomahawk_axe, self).__init__("tomahawk axe")
