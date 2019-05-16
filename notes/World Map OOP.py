@@ -1,9 +1,13 @@
 class Room(object):
-    def __init__(self, name, north=None, south=None, east=None, description=""):
+    def __init__(self, name, north=None, south=None, east=None, west= None, up=None, down=None, southwest=None, description=""):
         self.name = name
         self.north = north
         self.south = south
         self.east = east
+        self.west = west
+        self.up = up
+        self.down = down
+        self.southwest = southwest
         self.description = description
 
 
@@ -49,6 +53,42 @@ class Player(object):
         :param new_location: The variable containing a room object
         """
         self.current_location = new_location
+
+
+CEDAR_AVE_& N_11_TH_STREET = Room("John's Incredible Pizza", None, "Parking_lot", None, None, None, None, None,
+                                  "This is a place were kids and adult's could go to eat and play with games."
+                                  " Also, to the South exit there is the parking lot, and to the North exit"
+                                  "there is a Starbucks Coffee store.")
+
+PARKING_LOT = Room("The John's Incredible Pizza Parking Lot", None, None, "STARBUCKS_COFFEE_STORE", None, None, None, None,
+                   "There are cars park there."
+                   "To the East exit there's"
+                   "is a Starbucks Coffee store.")
+
+STARBUCKS_COFFEE_STORE = Room("Starbucks Coffee Store",None, "JOHNS_INCREDIBLE_ARCADE", None, None, None, None, None,
+                              "This place is where you could get Coffee"
+                              "to drink. Also, at this stores you could"
+                              "to there and drink your Coffee and do"
+                              "some work or just to hang out there with"
+                              "your friends.")
+
+JOHNS_INCREDIBLE_ARCADE = Room("John's Incredible  Arcade", None, None, None, None, "JOHNS_INCREDIBLE_PIZZA_BUFFET", None, None,
+                               "This place is a arcade where you could play."
+                               "In the arcade there is a laser tag place "
+                               "where you get to play with your friends tag "
+                               "but you tag the by shooting them with a laser"
+                               "gun.")
+
+JOHNS_INCREDIBLE_PIZZA_BUFFET = Room("Johns Incredible Pizza Buffet", None, None, None, None, None, "JOHNS_INCREDIBLE_BUMPER_CARS", None,  "In John's Incredible Pizza they have a buffet"
+                       "where you could get whatever you want, they"
+                       "also have drink's to drink. Also, you could"
+                       " have party's in there you just have to reserve "
+                       "it.")
+
+JOHNS_INCREDIBLE_BUMPER_CARS = Room("John Incredible Bumper Cars", None, None, None, None, None, None, "JOHNS_INCREDIBLE_BASKETBALL_GAMES", "In John's Incredible they have Bumper Cars where"
+                       "you could play with your friends and bump into"
+                       "them with the cars. Also, you could bump into "
+                       "other people and you're have lot's of fun.")
 
 
 #  Put them in quotes
