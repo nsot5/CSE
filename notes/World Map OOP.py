@@ -79,18 +79,56 @@ JOHNS_INCREDIBLE_ARCADE = Room("John's Incredible  Arcade", None, None, None, No
                                "but you tag the by shooting them with a laser"
                                "gun.")
 
-JOHNS_INCREDIBLE_PIZZA_BUFFET = Room("Johns Incredible Pizza Buffet", None, None, None, None, None, "JOHNS_INCREDIBLE_BUMPER_CARS", None,  "In John's Incredible Pizza they have a buffet"
-                       "where you could get whatever you want, they"
-                       "also have drink's to drink. Also, you could"
-                       " have party's in there you just have to reserve "
-                       "it.")
+JOHNS_INCREDIBLE_PIZZA_BUFFET = Room("Johns Incredible Pizza Buffet", None, None, None, None, None, "JOHNS_INCREDIBLE_BUMPER_CARS", None,
+                                     "In John's Incredible Pizza they have a buffet"
+                                     "where you could get whatever you want, they"
+                                     "also have drink's to drink. Also, you could"
+                                     " have party's in there you just have to reserve "
+                                     "it.")
 
-JOHNS_INCREDIBLE_BUMPER_CARS = Room("John Incredible Bumper Cars", None, None, None, None, None, None, "JOHNS_INCREDIBLE_BASKETBALL_GAMES", "In John's Incredible they have Bumper Cars where"
-                       "you could play with your friends and bump into"
-                       "them with the cars. Also, you could bump into "
-                       "other people and you're have lot's of fun.")
+JOHNS_INCREDIBLE_BUMPER_CARS = Room("John Incredible Bumper Cars", None, None, None, None, None, None, "JOHNS_INCREDIBLE_BASKETBALL_GAMES",
+                                    "In John's Incredible they have Bumper Cars where"
+                                    "you could play with your friends and bump into"
+                                    "them with the cars. Also, you could bump into "
+                                     "other people and you're have lot's of fun.")
 
+JOHNS_INCREDIBLE_BASKETBALL_GAMES = Room("John's Incredible Basketball Games", None,"JOHNS_INCREDIBLE_BOWLING", None, None, None, None, None,
+                                         "You could play basketball games with your friends.")
 
+JOHNS_INCREDIBLE_BOWLING = Room("John's Incredible Bowling","BAKERY_DELIGHTS", None, None, None, None, None, None,
+                                "In john's incredible they have a bowling place."
+                                "In the bowling place you could play with your"
+                                "friends, also you could play as how many times"
+                                "you wan't to.")
+
+BAKERY_DELIGHTS  = Room("Bakery Delights", None, None, None, None, "JOHNS_INCREDIBLE_TWISTER", None, None,
+                        "If you want some desert after leaving John's "
+                        "Incredible Pizza you could go to Bakery Delights."
+                        "At Bakery Delights you could get some bread."
+                        )
+
+JOHNS_INCREDIBLE_TWISTER = Room("John's Incredible Twister", None, None ,None, None, None, "JOHNS_INCREDIBLE_FROG_HOPPER", None,
+                                "In John's Incredible they have a twister were"
+                                "you could go on and you spin the wheel so you"
+                                "could go really fast")
+
+JOHNS_INCREDIBLE_FROG_HOPPER = Room("The Frog Hopper", None, "JOHNS_INCREDIBLE_CROSSY_ROAD", None, None, None, None, None,
+                                    "In the Frog Hopper you seat on the chair, then"
+                                    "you get ready to go up and down. It first goes"
+                                    "slow but after that is go really fast till you"
+                                    "get dizzy.")
+
+JOHNS_INCREDIBLE_CROSSY_ROAD = Room("John's Incredible Crossy Road", None, None, "JOHNS_INCREDIBLE_PIANO_KEYS", None, None, None, None,
+                                    "In the Crossy Road game you are able to cross the"
+                                    "road, train tracks, and rivers without getting kill."
+                                    "If they get kill you will have to start all over."
+                                    )
+
+JOHNS_INCREDIBLE_PIANO_KEYS = Room("The Piano Keys", None, None, None, "JOHNS_INCREDIBLE_360_TOUR", None, None, None,
+                                   "In this game there's is one to two player. You guys"
+                                   "are able to play some music til you guys win your onw"
+                                   "high scores."
+                                   )
 #  Put them in quotes
 R19A = Room("R19A", 'parking_lot')
 parking_lot = Room('The parking Lot', None, "R19A")

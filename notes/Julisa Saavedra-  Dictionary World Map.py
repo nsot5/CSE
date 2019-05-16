@@ -66,7 +66,7 @@ world_map = {
         'NAME': "John's Incredible Basketball Games",
         'DESCRIPTION': "You could play basketball games with your friends.",
         'PATHS': {
-            'SOUTH': "JOHNS_INCREDIBLE_ BOWLING"
+            'SOUTH':"JOHNS_INCREDIBLE_BOWLING'"
         }
     },
     'JOHNS_INCREDIBLE_BOWLING': {
