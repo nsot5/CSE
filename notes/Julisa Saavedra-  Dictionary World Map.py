@@ -1,5 +1,5 @@
 world_map = {
-    'Cedar Ave & N 11th Street': {
+    'JOHN_INCREDIBLE_PIZZA': {
         'NAME': "John's Incredible Pizza ",
         'DESCRIPTION': "This is a place were kids and adult's"
                        " could go to eat and play with games."
