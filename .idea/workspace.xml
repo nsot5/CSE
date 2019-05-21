@@ -47,79 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/notes/World Map OOP.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="241" column="76" selection-start-line="241" selection-start-column="76" selection-end-line="241" selection-end-column="76" />
-              <folding>
-                <element signature="e#24#397#0" />
-                <element signature="e#157#397#0" />
-                <element signature="e#424#474#0" />
-                <element signature="e#458#474#0" />
-                <element signature="e#646#772#0" />
-                <element signature="e#680#772#0" />
-                <element signature="e#675#751#0" />
-                <element signature="e#703#751#0" />
-                <element signature="e#919#1005#0" />
-                <element signature="e#947#1005#0" />
-                <element signature="e#1043#1129#0" />
-                <element signature="e#1071#1129#0" />
-                <element signature="e#1166#1250#0" />
-                <element signature="e#1194#1250#0" />
-                <element signature="e#1282#1356#0" />
-                <element signature="e#1310#1356#0" />
-                <element signature="e#1388#1462#0" />
-                <element signature="e#1416#1462#0" />
-                <element signature="e#1495#1571#0" />
-                <element signature="e#1523#1571#0" />
-                <element signature="e#1619#1725#0" />
-                <element signature="e#1647#1725#0" />
-                <element signature="e#1761#1843#0" />
-                <element signature="e#1789#1843#0" />
-                <element signature="e#1876#1952#0" />
-                <element signature="e#1904#1952#0" />
-                <element signature="e#1994#2088#0" />
-                <element signature="e#2022#2088#0" />
-                <element signature="e#1961#2011#0" />
-                <element signature="e#1995#2011#0" />
-                <element signature="e#2036#2158#0" />
-                <element signature="e#2070#2158#0" />
-                <element signature="e#2188#2260#0" />
-                <element signature="e#2216#2260#0" />
-                <element signature="e#2298#2386#0" />
-                <element signature="e#2326#2386#0" />
-                <element signature="e#2425#2515#0" />
-                <element signature="e#2453#2515#0" />
-                <element signature="e#2554#2643#0" />
-                <element signature="e#2582#2643#0" />
-                <element signature="e#2683#2775#0" />
-                <element signature="e#2711#2775#0" />
-                <element signature="e#2808#2886#0" />
-                <element signature="e#2836#2886#0" />
-                <element signature="e#2899#2961#0" />
-                <element signature="e#2941#2961#0" />
-                <element signature="e#638#1155#0" />
-                <element signature="e#696#797#0" />
-                <element signature="e#842#985#0" />
-                <element signature="e#1025#1155#0" />
-                <element signature="e#1184#1570#0" />
-                <element signature="e#1231#1351#0" />
-                <element signature="e#1395#1570#0" />
-                <element signature="e#1395#1525#1" />
-                <element signature="e#1587#1707#0" />
-                <element signature="e#1699#1955#0" />
-                <element signature="e#4772#4896#0" />
-                <element signature="e#5068#5433#0" />
-                <element signature="e#5684#6003#0" />
-                <element signature="e#3337#3681#0" />
-                <element signature="e#6930#7060#0" />
-                <element signature="e#7504#7602#0" />
-                <element signature="e#10384#10504#0" />
-                <element signature="e#10676#10796#0" />
-                <element signature="e#11141#11261#0" />
-                <element signature="e#7281#8035#0" />
-                <element signature="e#7436#7515#0" />
-                <element signature="e#7638#7985#0" />
-                <element signature="e#7655#7842#0" />
-              </folding>
+            <state relative-caret-position="452">
+              <caret line="279" column="116" selection-start-line="279" selection-start-column="116" selection-end-line="279" selection-end-column="116" />
             </state>
           </provider>
         </entry>
@@ -127,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra-  Dictionary World Map.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="901">
-              <caret line="137" column="23" lean-forward="true" selection-start-line="137" selection-start-column="23" selection-end-line="138" selection-end-column="52" />
+            <state relative-caret-position="320">
+              <caret line="147" column="23" selection-start-line="147" selection-start-column="23" selection-end-line="148" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -136,8 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra - Item.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="773">
-              <caret line="106" column="58" lean-forward="true" selection-start-line="67" selection-end-line="106" selection-end-column="58" />
+            <state relative-caret-position="1802">
+              <caret line="106" column="58" selection-start-line="67" selection-end-line="106" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -145,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra-  Showcase2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-901">
-              <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+            <state relative-caret-position="374">
+              <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -198,7 +127,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="620" />
     <option name="y" value="4" />
     <option name="width" value="1308" />
@@ -209,6 +138,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,7 +155,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -416,23 +345,24 @@
       <workItem from="1557932039445" duration="2607000" />
       <workItem from="1558018599226" duration="2070000" />
       <workItem from="1558037323497" duration="1766000" />
-      <workItem from="1558363686471" duration="6951000" />
+      <workItem from="1558363686471" duration="6976000" />
+      <workItem from="1558465597674" duration="1124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46695000" />
+    <option name="totallyTimeSpent" value="47844000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="620" y="4" width="1308" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21554486" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14552239" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.30743983" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3066089" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39770868" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -457,7 +387,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CSE$CSVNotes.coverage" NAME="CSVNotes Coverage Results" MODIFIED="1556552716313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notes" />
     <SUITE FILE_PATH="coverage/CSE$Julisa_S__Hang_Man.coverage" NAME="Julisa S- Hang Man Coverage Results" MODIFIED="1556554588034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notes" />
-    <SUITE FILE_PATH="coverage/CSE$World_Map_OOP.coverage" NAME="World Map OOP Coverage Results" MODIFIED="1558369991601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notes" />
+    <SUITE FILE_PATH="coverage/CSE$World_Map_OOP.coverage" NAME="World Map OOP Coverage Results" MODIFIED="1558466014536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notes" />
     <SUITE FILE_PATH="coverage/CSE$Julisa_Saavedra___Dictionary_World_Map.coverage" NAME="Julisa Saavedra-  Dictionary World Map Coverage Results" MODIFIED="1556553664409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notes" />
   </component>
   <component name="editorHistoryManager">
@@ -594,25 +524,25 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/notes/Book1.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="-152111">
           <caret line="394971" selection-start-line="394971" selection-end-line="394971" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/notes/MyNewFile.csv">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="16" />
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="1897013">
+          <caret line="111589" column="16" selection-start-line="111589" selection-start-column="16" selection-end-line="111589" selection-end-column="16" />
         </state>
       </provider>
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="1897013">
-          <caret line="111589" column="16" selection-start-line="111589" selection-start-column="16" selection-end-line="111589" selection-end-column="16" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -629,102 +559,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra - Item.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="106" column="58" selection-start-line="67" selection-end-line="106" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra-  Showcase2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-901">
-          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        <state relative-caret-position="374">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra-  Dictionary World Map.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="137" column="23" lean-forward="true" selection-start-line="137" selection-start-column="23" selection-end-line="138" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes/Julisa Saavedra - Item.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="773">
-          <caret line="106" column="58" lean-forward="true" selection-start-line="67" selection-end-line="106" selection-end-column="58" />
+        <state relative-caret-position="320">
+          <caret line="147" column="23" selection-start-line="147" selection-start-column="23" selection-end-line="148" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/notes/World Map OOP.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="241" column="76" selection-start-line="241" selection-start-column="76" selection-end-line="241" selection-end-column="76" />
-          <folding>
-            <element signature="e#24#397#0" />
-            <element signature="e#157#397#0" />
-            <element signature="e#424#474#0" />
-            <element signature="e#458#474#0" />
-            <element signature="e#646#772#0" />
-            <element signature="e#680#772#0" />
-            <element signature="e#675#751#0" />
-            <element signature="e#703#751#0" />
-            <element signature="e#919#1005#0" />
-            <element signature="e#947#1005#0" />
-            <element signature="e#1043#1129#0" />
-            <element signature="e#1071#1129#0" />
-            <element signature="e#1166#1250#0" />
-            <element signature="e#1194#1250#0" />
-            <element signature="e#1282#1356#0" />
-            <element signature="e#1310#1356#0" />
-            <element signature="e#1388#1462#0" />
-            <element signature="e#1416#1462#0" />
-            <element signature="e#1495#1571#0" />
-            <element signature="e#1523#1571#0" />
-            <element signature="e#1619#1725#0" />
-            <element signature="e#1647#1725#0" />
-            <element signature="e#1761#1843#0" />
-            <element signature="e#1789#1843#0" />
-            <element signature="e#1876#1952#0" />
-            <element signature="e#1904#1952#0" />
-            <element signature="e#1994#2088#0" />
-            <element signature="e#2022#2088#0" />
-            <element signature="e#1961#2011#0" />
-            <element signature="e#1995#2011#0" />
-            <element signature="e#2036#2158#0" />
-            <element signature="e#2070#2158#0" />
-            <element signature="e#2188#2260#0" />
-            <element signature="e#2216#2260#0" />
-            <element signature="e#2298#2386#0" />
-            <element signature="e#2326#2386#0" />
-            <element signature="e#2425#2515#0" />
-            <element signature="e#2453#2515#0" />
-            <element signature="e#2554#2643#0" />
-            <element signature="e#2582#2643#0" />
-            <element signature="e#2683#2775#0" />
-            <element signature="e#2711#2775#0" />
-            <element signature="e#2808#2886#0" />
-            <element signature="e#2836#2886#0" />
-            <element signature="e#2899#2961#0" />
-            <element signature="e#2941#2961#0" />
-            <element signature="e#638#1155#0" />
-            <element signature="e#696#797#0" />
-            <element signature="e#842#985#0" />
-            <element signature="e#1025#1155#0" />
-            <element signature="e#1184#1570#0" />
-            <element signature="e#1231#1351#0" />
-            <element signature="e#1395#1570#0" />
-            <element signature="e#1395#1525#1" />
-            <element signature="e#1587#1707#0" />
-            <element signature="e#1699#1955#0" />
-            <element signature="e#4772#4896#0" />
-            <element signature="e#5068#5433#0" />
-            <element signature="e#5684#6003#0" />
-            <element signature="e#3337#3681#0" />
-            <element signature="e#6930#7060#0" />
-            <element signature="e#7504#7602#0" />
-            <element signature="e#10384#10504#0" />
-            <element signature="e#10676#10796#0" />
-            <element signature="e#11141#11261#0" />
-            <element signature="e#7281#8035#0" />
-            <element signature="e#7436#7515#0" />
-            <element signature="e#7638#7985#0" />
-            <element signature="e#7655#7842#0" />
-          </folding>
+        <state relative-caret-position="452">
+          <caret line="279" column="116" selection-start-line="279" selection-start-column="116" selection-end-line="279" selection-end-column="116" />
         </state>
       </provider>
     </entry>

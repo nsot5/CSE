@@ -66,7 +66,7 @@ world_map = {
         'NAME': "John's Incredible Basketball Games",
         'DESCRIPTION': "You could play basketball games with your friends.",
         'PATHS': {
-            'SOUTH':"JOHNS_INCREDIBLE_BOWLING'"
+            'SOUTH': "JOHNS_INCREDIBLE_BOWLING'"
         }
     },
     'JOHNS_INCREDIBLE_BOWLING': {
@@ -136,7 +136,17 @@ world_map = {
     'JOHNS_INCREDIBLE_AIR_HOCKEY': {
         'NAME': "John's Incredible Air Hockey",
         'DESCRIPTION': "In this game you could play with two person"
-                       "and you guys will have fun.",
+                       "and you guys will have fun. To the up"
+                       "direction you are all the way to the "
+                       "main entrance of John Incredible Pizza",
+        'PATHS': {
+            'UP'
+        }
+    },
+    'JOHN_INCREDIBLE_ENTRANCE': {
+        'NAME': "John's Incredible Entrance",
+        'DESCRIPTION': "You are are back at the main entrance of"
+                       "John Incredible Pizza",
         'PATHS': {
             "NORTH"
             "WEST"

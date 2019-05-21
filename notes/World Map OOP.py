@@ -163,8 +163,8 @@ class Player(object):
 # ======================================================================================================================
 
 
-JOHN_INCREDIBLE_PIZZA = Room("John's Incredible Pizza", "STARBUCKS_COFFEE_STORE", "PARKING_LOT", None, None, None, None, None,
-                             "This is a place were kids and adult's could go to eat and play with games."
+JOHN_INCREDIBLE_PIZZA = Room("John's Incredible Pizza", "STARBUCKS_COFFEE_STORE", "PARKING_LOT", None, None, None, None,
+                             None, "This is a place were kids and adult's could go to eat and play with games."
                              " Also, to the South exit there is the parking lot, and to the North exit"
                              "there is a Starbucks Coffee store.")
 
@@ -208,7 +208,7 @@ JOHNS_INCREDIBLE_BUMPER_CARS = Room("John Incredible Bumper Cars", None, None, N
                                     "you could play with your friends and bump into"
                                     "them with the cars. Also, you could bump into "
                                     "other people and you're have lot's of fun. To"
-                                    "southwest direction there is a John Incredible"
+                                    " the southwest direction there is a John Incredible"
                                     "Basketball Games.")
 
 JOHNS_INCREDIBLE_BASKETBALL_GAMES = Room("John's Incredible Basketball Games", None, "JOHNS_INCREDIBLE_BOWLING", None,
@@ -244,30 +244,42 @@ JOHNS_INCREDIBLE_FROG_HOPPER = Room("The Frog Hopper", None, "JOHNS_INCREDIBLE_C
                                     "In the Frog Hopper you seat on the chair, then"
                                     "you get ready to go up and down. It first goes"
                                     "slow but after that is go really fast till you"
-                                    "get dizzy.")
+                                    "get dizzy. To the south direction there is the "
+                                    "John Incredible Crossy road. ")
 
 JOHNS_INCREDIBLE_CROSSY_ROAD = Room("John's Incredible Crossy Road", None, None, "JOHNS_INCREDIBLE_PIANO_KEYS", None,
                                     None, None, None,
                                     "In the Crossy Road game you are able to cross the"
                                     "road, train tracks, and rivers without getting kill."
                                     "If they get kill you will have to start all over."
+                                    "To the east direction there is a John Incredible Piano"
+                                    "Keys."
                                     )
 
 JOHNS_INCREDIBLE_PIANO_KEYS = Room("The Piano Keys", None, None, None, "JOHNS_INCREDIBLE_360_TOUR", None, None, None,
                                    "In this game there's is one to two player. You guys"
                                    "are able to play some music til you guys win your onw"
-                                   "high scores."
+                                   "high scores. To the west direction there is a John "
+                                   "Incredible 380 Tour."
                                    )
 
 JOHNS_INCREDIBLE_360_TOUR = Room("John's Incredible 360 Tour", "JOHNS_INCREDIBLE_AIR_HOCKEY", None, None, None, None,
                                  None, None,
                                  "In the 360 Tour you take a virtual tour of their"
-                                 "fun world that John's Incredible Pizza have."
+                                 "fun world that John's Incredible Pizza have. To "
+                                 "north direction there is a Johns Incredible Air"
+                                 "Hockey,"
                                  )
 
 JOHNS_INCREDIBLE_AIR_HOCKEY = Room("John's Incredible Air Hockey", None, None, None, None, None, None, None,
                                    "In this game you could play with two person"
-                                   "and you guys will have fun.")
+                                   "and you guys will have fun. To the up"
+                                   "direction you are all the way to the "
+                                   "main entrance of John Incredible Pizza")
+
+JOHN_INCREDIBLE_ENTRANCE = Room("John's Incredible Entrance", None, None, None, None, None, None, None, "You are are"
+                                "back at the main entrance of"
+                                "John Incredible Pizza.")
 
 # Item
 sword = Weapon("Sword", 15)
