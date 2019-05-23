@@ -289,8 +289,13 @@ sword = Weapon("Sword", 15)
 sword2 = Weapon("Orc Sword", 5)
 
 swords = ("Swords", "damage")
-OneHandedSword =("OneHandedSword", "damage")
-ZweihanderSword =("ZweihanderSword", "damage")
+OneHandedSword = ("OneHandedSword", "damage")
+ZweihanderSword = ("ZweihanderSword", "damage")
+SvardstavSword = ("SvardstavSword", "damage")
+JianSword = ("JianSword", "damage")
+LongSword = ("LongSword", "damage")
+BroadSword = ("BroadSword", "damage")
+
 # ======================================================================================================================
 # Player
 # ======================================================================================================================
