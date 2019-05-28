@@ -167,14 +167,13 @@ class Player(object):
 JOHN_INCREDIBLE_PIZZA = Room("John's Incredible Pizza", "STARBUCKS_COFFEE_STORE", "PARKING_LOT", None, None, None, None,
                              None, "This is a place were kids and adult's could go to eat and play with games."
                              " Also, to the South exit there is the parking lot, and to the North exit"
-                             "there is a Starbucks Coffee store.", [OneHandedSword])
+                             "there is a Starbucks Coffee store.", [OneHandedSword],)
 
 PARKING_LOT = Room("The John's Incredible Pizza Parking Lot", None, None, "STARBUCKS_COFFEE_STORE", None, None, None,
                    None, "There are cars park there."
                    "To the East exit there's"
                    "is a Starbucks Coffee store.",
-                   [ZweihanderSword]
-                   )
+                   [ZweihanderSword],)
 
 STARBUCKS_COFFEE_STORE = Room("Starbucks Coffee Store", None, "JOHNS_INCREDIBLE_ARCADE", None, None, None, None, None,
                               "This place is where you could get Coffee"
@@ -182,8 +181,7 @@ STARBUCKS_COFFEE_STORE = Room("Starbucks Coffee Store", None, "JOHNS_INCREDIBLE_
                               "to there and drink your Coffee and do"
                               "some work or just to hang out there with"
                               "your friends." "To the south exit there's"
-                              "is John Incredible Arcade.", [SvardstavSword]
-                              )
+                              "is John Incredible Arcade.", [SvardstavSword],)
 
 JOHNS_INCREDIBLE_ARCADE = Room("John's Incredible  Arcade", None, None, None, None, "JOHNS_INCREDIBLE_PIZZA_BUFFET",
                                None, None,
@@ -192,7 +190,7 @@ JOHNS_INCREDIBLE_ARCADE = Room("John's Incredible  Arcade", None, None, None, No
                                "where you get to play with your friends tag "
                                "but you tag the by shooting them with a laser"
                                "gun." "To the up direction there is a John"
-                               "Incredible Pizza Buffet.", [JianSword])
+                               "Incredible Pizza Buffet.", [JianSword],)
 
 JOHNS_INCREDIBLE_PIZZA_BUFFET = Room("Johns Incredible Pizza Buffet", None, None, None, None, None,
                                      "JOHNS_INCREDIBLE_BUMPER_CARS", None,
@@ -201,7 +199,7 @@ JOHNS_INCREDIBLE_PIZZA_BUFFET = Room("Johns Incredible Pizza Buffet", None, None
                                      "also have drink's to drink. Also, you could"
                                      " have party's in there you just have to reserve "
                                      "it. To the down direction there is a John "
-                                     "Incredible Bumper Cars", [LongSword])
+                                     "Incredible Bumper Cars", [LongSword],)
 
 JOHNS_INCREDIBLE_BUMPER_CARS = Room("John Incredible Bumper Cars", None, None, None, None, None, None,
                                     "JOHNS_INCREDIBLE_BASKETBALL_GAMES",
@@ -210,28 +208,27 @@ JOHNS_INCREDIBLE_BUMPER_CARS = Room("John Incredible Bumper Cars", None, None, N
                                     "them with the cars. Also, you could bump into "
                                     "other people and you're have lot's of fun. To"
                                     " the southwest direction there is a John Incredible"
-                                    "Basketball Games.", [BroadSword])
+                                    "Basketball Games.", [BroadSword],)
 
 JOHNS_INCREDIBLE_BASKETBALL_GAMES = Room("John's Incredible Basketball Games", None, "JOHNS_INCREDIBLE_BOWLING", None,
                                          None, None, None, None,
                                          "You could play basketball games with your friends."
                                          "To the south direction there is a John Incredible "
-                                         "Bowling.", [LongKnifeAndShortSword])
+                                         "Bowling.", [LongKnifeAndShortSword],)
 
 JOHNS_INCREDIBLE_BOWLING = Room("John's Incredible Bowling", "BAKERY_DELIGHTS", None, None, None, None, None, None,
                                 "In john's incredible they have a bowling place."
                                 "In the bowling place you could play with your"
                                 "friends, also you could play as how many times"
                                 "you wan't to. To the north direction there is a"
-                                "Bakery Delights.", [ClaymoreSword])
+                                "Bakery Delights.", [ClaymoreSword],)
 
 BAKERY_DELIGHTS = Room("Bakery Delights", None, None, None, None, "JOHNS_INCREDIBLE_TWISTER", None, None,
                        "If you want some desert after leaving John's "
                        "Incredible Pizza you could go to Bakery Delights."
                        "At Bakery Delights you could get some bread."
                        "To the up direction there is a John Incredible "
-                       "Twister.", [GreatSword]
-                       )
+                       "Twister.", [GreatSword],)
 
 JOHNS_INCREDIBLE_TWISTER = Room("John's Incredible Twister", None, None, None, None, None,
                                 "JOHNS_INCREDIBLE_FROG_HOPPER", None,
@@ -239,7 +236,7 @@ JOHNS_INCREDIBLE_TWISTER = Room("John's Incredible Twister", None, None, None, N
                                 "you could go on and you spin the wheel so you"
                                 "could go really fast. To the down direction "
                                 "there is a John Incredible Frog Hopper.",
-                                [HonjoMasamuneSword])
+                                [HonjoMasamuneSword],)
 
 JOHNS_INCREDIBLE_FROG_HOPPER = Room("The Frog Hopper", None, "JOHNS_INCREDIBLE_CROSSY_ROAD", None, None, None, None,
                                     None,
@@ -247,7 +244,7 @@ JOHNS_INCREDIBLE_FROG_HOPPER = Room("The Frog Hopper", None, "JOHNS_INCREDIBLE_C
                                     "you get ready to go up and down. It first goes"
                                     "slow but after that is go really fast till you"
                                     "get dizzy. To the south direction there is the "
-                                    "John Incredible Crossy road.", [VikingDanishAxe])
+                                    "John Incredible Crossy road.", [VikingDanishAxe],)
 
 JOHNS_INCREDIBLE_CROSSY_ROAD = Room("John's Incredible Crossy Road", None, None, "JOHNS_INCREDIBLE_PIANO_KEYS", None,
                                     None, None, None,
@@ -255,47 +252,54 @@ JOHNS_INCREDIBLE_CROSSY_ROAD = Room("John's Incredible Crossy Road", None, None,
                                     "road, train tracks, and rivers without getting kill."
                                     "If they get kill you will have to start all over."
                                     "To the east direction there is a John Incredible Piano"
-                                    "Keys.", [TheDoubleBitAxe]
-                                    )
+                                    "Keys.", [TheDoubleBitAxe],)
 
 JOHNS_INCREDIBLE_PIANO_KEYS = Room("The Piano Keys", None, None, None, "JOHNS_INCREDIBLE_360_TOUR", None, None, None,
                                    "In this game there's is one to two player. You guys"
                                    "are able to play some music til you guys win your onw"
                                    "high scores. To the west direction there is a John "
-                                   "Incredible 380 Tour.", [SplittingMaulAxe]
-                                   )
+                                   "Incredible 380 Tour.", [SplittingMaulAxe],)
 
 JOHNS_INCREDIBLE_360_TOUR = Room("John's Incredible 360 Tour", "JOHNS_INCREDIBLE_AIR_HOCKEY", None, None, None, None,
                                  None, None,
                                  "In the 360 Tour you take a virtual tour of their"
                                  "fun world that John's Incredible Pizza have. To "
                                  "north direction there is a Johns Incredible Air"
-                                 "Hockey,", [FellingHatchetAxe]
-                                 )
+                                 "Hockey,", [FellingHatchetAxe],)
 
 JOHNS_INCREDIBLE_AIR_HOCKEY = Room("John's Incredible Air Hockey", None, None, None, None, None, None, None,
                                    "In this game you could play with two person"
                                    "and you guys will have fun. To the up"
                                    "direction you are all the way to the "
                                    "main entrance of John Incredible Pizza",
-                                   [TomahawkAxe])
+                                   [TomahawkAxe],)
 
 JOHN_INCREDIBLE_ENTRANCE = Room("John's Incredible Entrance", None, None, None, None, None, None, None, "You are are"
                                 "back at the main entrance of"
-                                "John Incredible Pizza.")
+                                "John Incredible Pizza.", None)
 
 # Item
 sword = Weapon("Sword", 15)
 sword2 = Weapon("Orc Sword", 5)
 
 swords = ("Swords", "damage")
-OneHandedSword = ("OneHandedSword", "damage")
-ZweihanderSword = ("ZweihanderSword", "damage")
-SvardstavSword = ("SvardstavSword", "damage")
-JianSword = ("JianSword", "damage")
-LongSword = ("LongSword", "damage")
-BroadSword = ("BroadSword", "damage")
+OneHandedSword = Weapon("OneHandedSword", "damage")
+ZweihanderSword = Weapon("ZweihanderSword", "damage")
+SvardstavSword = Weapon("SvardstavSword", "damage")
+JianSword = Weapon("JianSword", "damage")
+LongSword = Weapon("LongSword", "damage")
+BroadSword = Weapon("BroadSword", "damage")
+LongKnifeAndShortSword = Weapon("LongKnifeAndShortSword", "damage")
+ClaymoreSword = Weapon("ClaymoreSword", "damage")
+GreatSword = Weapon("GreatSword", "damage")
+HonjoMasamuneSword = Weapon("HonjoMasamuneSword", "damage")
 
+Axes = ("Axes", "damage")
+VikingDanishAxe = Weapon("VikingDanishAxe", "damage")
+TheDoubleBitAxe = Weapon("TheDoubleBitAxe", "damage")
+SplittingMaulAxe = Weapon("SplittingMaulAxe", "damage")
+FellingHatchetAxe = Weapon("FellingHatchetAxe", "damage")
+TomahawkAxe = Weapon("TomahawkAxe", "damage")
 # ======================================================================================================================
 # Player
 # ======================================================================================================================
