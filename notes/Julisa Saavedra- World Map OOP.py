@@ -338,7 +338,7 @@ while playing:
         # print(player.current_location.items[0].name)
         for item in player.current_location.item:
             if item.name == item_name:
-                found_item = item
+                found_item = sword
         if found_item is not None:
             player.inventory.append(found_item)
             player.current_location.item.remove(found_item)

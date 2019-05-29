@@ -33,7 +33,7 @@ class WaterGun(object):
 my_water_gun = WaterGun(5.2, 40, True)
 your_water_gun = WaterGun(1.0, 1, False)
 wiebe_water_gun = WaterGun(9999999999, 9999999999999999999999999999, True)
-yahir_water_gun = WaterGun(0,1)
+yahir_water_gun = WaterGun(0, 1)
 
 # Do stuff with the objects
 my_water_gun.shoot(5)
