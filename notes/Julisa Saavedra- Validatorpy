@@ -6,4 +6,4 @@ def validate(num: str):
     if len(num) == 16:
         list_form = list(num)
         last_num = list_form.pop(15)
-        reversed_
+        reversed_form =  reverse
